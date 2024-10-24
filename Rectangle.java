@@ -1,6 +1,4 @@
-newpackage lab4;
-
-import java.awt.Point;
+package lab5;
 
 public class Rectangle {
 	Point A;
