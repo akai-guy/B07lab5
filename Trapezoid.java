@@ -7,7 +7,6 @@ public class Trapezoid {
 	Point B;
 	Point C;
 	Point D;
-	
 	public Trapezoid(Point A, Point B, Point C, Point D) {
 		this.A = A;
 		this.B = B;
